@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho com gerenciamento de obras, mas estou em processo de migração de carreira.
 - 🌱 Atualmente estou estudando JavaScript, HTML e CSS.
-- 👯 Possuo alguns repositórios em JS e Python.
+- 👯 Possuo alguns repositórios em PowerBI, PowerApps, JS e Python.
 - 🤔 Tambem possuo pouco conhecimento em AWS e Salesforce.
 <!--- 💬 Ask me about ...
 - 📫 How to reach me: ...
