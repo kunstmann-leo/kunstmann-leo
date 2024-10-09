@@ -15,7 +15,8 @@
 
 #### Logo abaixo, estão algumas de minhas especialidades.
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunstmann-leo)](https://github.com/kunstmann-leo/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunstmann-leo&show_icons=true&theme=radical)]
+ (https://github.com/kunstmann-leo/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kunstmann-leo=kunstmann-leo&show_icons=true)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kunstmann-leo=kunstmann-leo&show_icons=true&theme=radical)
 <div>
