@@ -18,19 +18,15 @@
  
 
 <div>
- <a href="https://github.com/kunstmann-leo">
+ <!--<a href="https://github.com/kunstmann-leo">-->
 <a href="https://github.com/kunstmann-leo/github-readme-stats">
-  <img height=165em align="center" src="https://github-readme-stats.vercel.app/api?username=kunstmann-leo&layout=compact&langs_count=7&theme=dracula" />
+  <img height=165em align="center" src="https://github-readme-stats.vercel.app/api?username=kunstmann-leo&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 <a href="https://github.com/kunstmann-leo/convoychat">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunstmann-leo&layout=compact&langs_count=7&theme=dracula"/>
-</a>
- 
-   
+</a>   
   <!--<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kunstmann-leo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-  
-  
-</div>
+ </div>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
