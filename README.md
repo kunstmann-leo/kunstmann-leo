@@ -2,7 +2,7 @@
 <!--<img href="https://cdn.discordapp.com/attachments/1201365508587524169/1201371692652572742/leo_IA_2.2.jpg?ex=65c99393&is=65b71e93&hm=eb69b8931219dbc711ebca1587d9264d3e5d7bb435eea4e137aaf0dbaa8f13d3&">-->
 
 - 🔭 Trabalho com gerenciamento de obras, mas estou em processo de migração de carreira.
-- 🌱 Atualmente estou estudando Python, SQL e DAX.
+- 🌱 Atualmente estou estudando Python, SQL, DAX e PowerApps.
 - 👯 Possuo alguns repositórios em PowerBI, PowerApps, JS e Python.
 - 🤔 Tambem possuo pouco conhecimento em AWS e Salesforce.
 <!--- 💬 Ask me about ...
@@ -23,7 +23,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="PowerBI" height="30" width="40" src="https://PowerBI-Icons/SVG/Power-BI.svg">
+ <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
  <img align="center" alt="SQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
