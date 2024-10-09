@@ -22,12 +22,13 @@
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="PowerBI" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatadrivensolution.fr%2Fformation%2Fformation-power-bi%2F&psig=AOvVaw1QOctR9bluRD_oTnYDZYoL&ust=1728534108998000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjwoMW5gIkDFQAAAAAdAAAAABAJ">
+  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="PowerBI" height="30" width="40" src="https://">
+ <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="AWS" height="30" width="70" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img align="center" alt="AWS" height="30" width="70" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
  <img align="center" alt="Salesforce" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
  <!--<img align="center" alt="Swift" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/swift/swift-original.svg">
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
