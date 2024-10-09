@@ -46,12 +46,12 @@
 <a href = "mailto:leokmaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!-- <a href="https://instagram.com/ssouzab_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
 <a href="https://www.linkedin.com/in/leonardo-kunstmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img align="right" alt="Icone" height"400" width="240" &nbsp src="https://cdn.discordapp.com/attachments/1201365508587524169/1201365614124605520/leo_IA_12.jpg?ex=65c98dea&is=65b718ea&hm=3d0119289ae1dd9b86663e96ca990ec95fa20cc08815b747116b9983d2495003&">
+<img align="right" alt="Icone" height"400" width="240" &nbsp src="https://cdn.discordapp.com/attachments/1201365508587524169/1201365614124605520/leo_IA_12.jpg?ex=6707476a&is=6705f5ea&hm=dfb2abae57cbb70a4120ee0d2063a3cc321b15b58e57666a2e602049676c16b8&">
 
     
 ![snake gif](https://github.com/kunstmann-leo/kunstmann-leo/blob/output/github-contribution-grid-snake.gif)
 
-![leonardo - Banner](https://cdn.discordapp.com/attachments/1201365508587524169/1201371692652572742/leo_IA_2.2.jpg?ex=65c99393&is=65b71e93&hm=eb69b8931219dbc711ebca1587d9264d3e5d7bb435eea4e137aaf0dbaa8f13d3&)
+![leonardo - Banner](https://cdn.discordapp.com/attachments/1201365508587524169/1201371692652572742/leo_IA_2.2.jpg?ex=67074d13&is=6705fb93&hm=bc8cb90215d202a27b33aee5368d3eb1782afa71faaa3148055e465f67813c6a&)
      
 </div>
 
