@@ -15,10 +15,10 @@
 
 #### Logo abaixo, estão algumas de minhas especialidades.
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kunstmann-leo=anuraghazra&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kunstmann-leo=anuraghazra&show_icons=true&theme=radical)
 <div>
-  <a href="https://github.com/kunstmann-leo">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kunstmann-leo=anuraghazra&show_icons=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kunstmann-leo=anuraghazra&show_icons=true&theme=radical)
+  <a href="https://github.com/kunstmann-leo"> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kunstmann-leo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunstmann-leo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
