@@ -15,8 +15,6 @@
 
 #### Logo abaixo, estão algumas de minhas especialidades.
 
- 
-
 <div>
  <!--<a href="https://github.com/kunstmann-leo">-->
 <a href="https://github.com/kunstmann-leo/github-readme-stats">
@@ -43,6 +41,7 @@
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  -->
  <img align="center" alt="VsCode" height"50" width="30" &nbsp src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="right" alt="Icone" height"100" width="100" &nbsp src="https://cdn.discordapp.com/attachments/1201365508587524169/1201365614124605520/leo_IA_12.jpg?ex=6707476a&is=6705f5ea&hm=dfb2abae57cbb70a4120ee0d2063a3cc321b15b58e57666a2e602049676c16b8&">
  
  <!-- <img align="right" alt="Icon" src="https://user-images.githubusercontent.com/80977502/128074885-fee0a8ed-d09c-4ee1-bec7-d5e13b7eb2a8.gif">-->
 </div>
@@ -53,8 +52,8 @@
 <a href = "mailto:leokmaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!-- <a href="https://instagram.com/ssouzab_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
 <a href="https://www.linkedin.com/in/leonardo-kunstmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img align="right" alt="Icone" height"100" width="100" &nbsp src="https://cdn.discordapp.com/attachments/1201365508587524169/1201365614124605520/leo_IA_12.jpg?ex=6707476a&is=6705f5ea&hm=dfb2abae57cbb70a4120ee0d2063a3cc321b15b58e57666a2e602049676c16b8&">
-
+<!--<img align="right" alt="Icone" height"100" width="100" &nbsp src="https://cdn.discordapp.com/attachments/1201365508587524169/1201365614124605520/leo_IA_12.jpg?ex=6707476a&is=6705f5ea&hm=dfb2abae57cbb70a4120ee0d2063a3cc321b15b58e57666a2e602049676c16b8&">
+-->
     
 ![snake gif](https://github.com/kunstmann-leo/kunstmann-leo/blob/output/github-contribution-grid-snake.gif)
 
